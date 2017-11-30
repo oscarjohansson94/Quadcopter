@@ -1,2 +1,2 @@
 # Quadcopter
-Codebase for an Arduino based quadcopter
+Codebase for an Arduino based quadcopter.
